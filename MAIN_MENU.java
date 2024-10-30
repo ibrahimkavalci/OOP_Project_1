@@ -1,3 +1,5 @@
+// Main menu is structured with ASCII and 5 options (Statistics method is completely added) as a base.
+
 package oop;
 
 import java.util.Arrays;
